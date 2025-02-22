@@ -258,7 +258,7 @@ All contributions are welcome: ideas, patches, documentation, bug reports,
 complaints, and even something you drew up on a napkin.
 
 Programming is not a required skill. Whatever you've seen about open source and
-maintainers or community members  saying "send patches or die" - 
+maintainers or community members
 
 
 For more information about contributing, see the
