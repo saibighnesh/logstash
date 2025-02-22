@@ -257,8 +257,7 @@ E.g.
 All contributions are welcome: ideas, patches, documentation, bug reports,
 complaints, and even something you drew up on a napkin.
 
-Programming is not a required skill. Whatever you've seen about open source and
-maintainers or community members
+Programming is not a required skill. 
 
 
 For more information about contributing, see the
