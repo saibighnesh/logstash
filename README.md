@@ -257,8 +257,5 @@ E.g.
 All contributions are welcome: ideas, patches, documentation, bug reports,
 complaints, and even something you drew up on a napkin.
 
-Programming is not a required skill. 
-
-
 For more information about contributing, see the
 [CONTRIBUTING](./CONTRIBUTING.md) file.
